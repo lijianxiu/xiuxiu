@@ -1,0 +1,23 @@
+body{
+	margin: 0px;
+	background-image: url(../img/a4.jpg);
+}
+#d1{
+	width: 84%;
+	height:650px;
+	margin-top:55%;
+	margin-left:8%;
+}
+#d1>h1{
+	text-align: center;
+}
+#d1>h2{
+	text-align: center;
+}
+#d1>hr{
+	width:0px;
+	height:0px;
+}
+#d2{
+	margin-left:240px;
+}
