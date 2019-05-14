@@ -1,6 +1,7 @@
 body{
 	margin: 0px;
 	background-image: url(../img/a4.jpg);
+	text-align: center;
 }
 #d1{
 	width: 84%;
@@ -19,5 +20,6 @@ body{
 	height:0px;
 }
 #d2{
-	margin-left:240px;
+	align-content: center;
+
 }
