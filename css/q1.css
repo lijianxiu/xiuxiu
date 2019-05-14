@@ -1,12 +1,11 @@
 body{
 	margin: 0px;
+	height:100%;
 	background-image: url(../img/a4.jpg);
 	text-align: center;
 }
 #d1{
-	width: 84%;
-	height:650px;
-	margin-top:55%;
+	margin-top:45%;
 	margin-left:8%;
 }
 #d1>h1{
@@ -21,5 +20,5 @@ body{
 }
 #d2{
 	align-content: center;
-
+margin-top:20%;
 }
