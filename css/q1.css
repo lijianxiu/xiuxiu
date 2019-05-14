@@ -20,5 +20,6 @@ body{
 	height:0px;
 }
 #d2{
-	margin-left:240px;
+	position: relative;
+	
 }
